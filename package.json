@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-csv/react-csv.git"
+    "url": "git+https://github.com/bogdancss/react-csv.git"
   },
   "keywords": [
     "csv",
@@ -39,15 +39,15 @@
   "author": "Abdennour TOUMI <http://abdennoor.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-csv/react-csv/issues"
+    "url": "https://github.com/bogdancss/react-csv/issues"
   },
-  "homepage": "https://github.com/react-csv/react-csv#readme",
+  "homepage": "https://github.com/bogdancss/react-csv#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-core": "^6.18.2",
+    "babel-core": "^6.26.3",
     "babel-istanbul": "^0.12.2",
     "babel-loader": "^6.2.8",
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "browserify": "^13.3.0",
@@ -63,9 +63,9 @@
     "jsdom-global": "2.1.0",
     "mocha": "^3.2.0",
     "mocha-lcov-reporter": "^1.2.0",
-    "prop-types": "^15.5.8",
+    "prop-types": "^15.7.2",
     "react": "^15.5.4",
-    "react-docgen": "^2.13.0",
+    "react-docgen": "^2.21.0",
     "react-dom": "^15.5.4",
     "react-styleguidist": "^4.6.3",
     "react-test-renderer": "^15.5.4",
@@ -75,7 +75,7 @@
     "uglify-js": "^2.7.5",
     "webpack": "^1.13.3",
     "webpack-dev-middleware": "^1.8.4",
-    "webpack-dev-server": "^3.1.11",
-    "webpack-hot-middleware": "^2.13.2"
+    "webpack-dev-server": "^3.10.3",
+    "webpack-hot-middleware": "^2.25.0"
   }
 }
